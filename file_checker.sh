@@ -1,4 +1,4 @@
-q#!/bin/bash
+#!/bin/bash
 #A simple file checker program
 read -p "Enter the name of the file: " FILENAME
 
