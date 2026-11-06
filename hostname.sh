@@ -1,6 +1,6 @@
 #!/bin/bash
 #Displaying the hostname
 
-HOSTNAME = $(hostname)
+HOSTNAME=$(hostname)
 echo "Host: $HOSTNAME"
 
